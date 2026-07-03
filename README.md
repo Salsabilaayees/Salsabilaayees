@@ -112,11 +112,11 @@ Coming Soon...
 Coming Soon...
 
 ୨୧ ─────────── ୨୧-୨୧ ─────────── ୨୧
-🌸
-Music : ON
-Coffee : YES
-Bug : FIXING
-Learning : ALWAYS
+## 🌸
+- Music : ON
+- Coffee : YES
+- Bug : FIXING
+- Learning : ALWAYS
 
 # 💻 Tech Stack
 

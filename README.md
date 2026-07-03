@@ -1,4 +1,7 @@
 # 🌸 Hi, I'm Salsaa!
+<p align="center">
+<img src="assets/welcome.png" width="100%">
+</p>
 
 <p align="center">
   <i>Building meaningful digital experiences, one project at a time.</i> ✨

@@ -50,7 +50,7 @@ A simple JavaScript stopwatch with a cute pink interface and responsive layout.
 
 Collecting my university projects, reports, and web development journey.
 
-<br><img src="assets/lari.gif" width="100%" height="50%">
+<br><img src="assets/lari.gif" width="350">
 ୨୧ ─────────── ୨୧-୨୧ ─────────── ୨୧
 
 # 🎯 Goals for 2026

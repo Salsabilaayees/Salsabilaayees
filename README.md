@@ -13,7 +13,7 @@ Technology, for me, isn't just about writing code—it's about creating solution
 ---
 
 # 🌷 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ethnocentric&pause=10000&color=F79ED8&background=FFFFFF&repeat=false&width=750&lines=-+%F0%9F%8E%93+Information+Systems+Student;-+%F0%9F%92%BB+Passionate+about+Front-End+Development;-+%F0%9F%8E%A8+Interested+in+UI%2FUX+Design;-+%F0%9F%8C%B1+Always+learning+new+technologies;-+%F0%9F%93%9A+Love+turning+ideas+into+real+projects;-+%E2%9C%A8+Detail-oriented+and+curious+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ethnocentric&pause=10000&color=F79ED8&background=FFFFFF&center=true&vCenter=true&repeat=false&width=750&lines=%F0%9F%8E%B5+Coding+with+Nadin+Amizah+%F0%9F%8E%80;%F0%9F%8E%A7+Now+Playing%3A+Perunggu+%F0%9F%8C%B7;%F0%9F%8C%B8+FEAST+keeps+me+motivated;%E2%98%81%EF%B8%8F+Juicy+Luicy+hits+differently;%E2%9C%A8+Hindia+on+repeat)](https://git.io/typing-svg)
 - 🎓 Information Systems Student
 - 💻 Passionate about Front-End Development
 - 🎨 Interested in UI/UX Design

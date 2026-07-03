@@ -1,7 +1,6 @@
-## Hi, aku Salsaa 🌸
+## Hi, I'm Salsaa! 🌸
 
-Welcome to my little coding space!
-I'm an Information Systems student who loves building websites, exploring UI design, and learning something new every day.
+Welcome to my little corner of GitHub! I'm an Information Systems student who enjoys turning ideas into meaningful digital experiences. I love exploring web development, crafting user-friendly interfaces, and continuously learning through every project I build.
 
 ## 🌷 About Me
 
@@ -28,6 +27,13 @@ I'm an Information Systems student who loves building websites, exploring UI des
 - Git & GitHub
 - UI Design
 
+## 🚀 Current Projects
+
+🌸 Building **SpectaEvent** — a campus event information platform
+⏱️ Developing aesthetic JavaScript mini projects
+📚 Expanding my academic and personal project portfolio
+🎨 Exploring UI/UX principles through web interfaces
+
 ## 🎯 2026 Goals
 
 - Build 20 JavaScript Projects
@@ -37,7 +43,29 @@ I'm an Information Systems student who loves building websites, exploring UI des
 
 ## ☕ Fun Facts
 
-🌸 Pink is my favorite color.
+🌸 Pink is my comfort color and inspires most of my designs.
 🎵 I enjoy coding while listening to music.
-✨ I believe every project teaches something new.
-💖 Small improvements every day.
+💖 I love transforming simple ideas into meaningful digital experiences.
+📚 Every project teaches me something new, no matter how small.
+🎨 I believe good design is just as important as clean code.
+✨ I'm constantly learning and improving, one project at a time.
+
+## 📚 Open to
+
+🤝 Collaboration on beginner-friendly projects
+💡 Learning from other developers
+🌸 Open Source contributions
+🚀 Front-End development opportunities
+
+## 🤝 Let's Connect
+
+💌 Email: your.email@gmail.com
+💼 LinkedIn: coming soon
+🌸 Portfolio: coming soon
+
+---
+
+<p align="center">
+Thanks for stopping by! 🌷<br>
+Feel free to explore my projects and join me on my coding journey. ✨
+</p>

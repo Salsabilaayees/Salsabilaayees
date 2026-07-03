@@ -4,7 +4,7 @@
   <i>Building meaningful digital experiences, one project at a time.</i> ✨
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ethnocentric&pause=10000&color=F79ED8&background=FFFFFF&vCenter=true&random=true&width=750&lines=Welcome+to+my+little+corner+of+GitHub!+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ethnocentric&pause=10000&color=F79ED8&background=FFFFFF&center=true&random=true&width=750&lines=Welcome+to+my+little+corner+of+GitHub!+%F0%9F%92%96)](https://git.io/typing-svg)
 
 I'm an **Information Systems student** who enjoys transforming ideas into meaningful digital experiences. I love exploring **web development**, crafting intuitive **user interfaces**, and continuously improving my skills through every project I build.
 

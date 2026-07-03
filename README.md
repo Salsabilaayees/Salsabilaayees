@@ -20,7 +20,7 @@ Technology, for me, isn't just about writing code—it's about creating solution
 - 🌱 Always learning new technologies
 - 📚 Love turning ideas into real projects
 - ✨ Detail-oriented and curious learner
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tdxohbxdbk7ch5q7hlms7yjvqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff9ea8)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 
 # 🌱 Currently Learning
@@ -140,6 +140,8 @@ Coming Soon...
 > *"Every project begins with curiosity and grows through consistency."* 🌸
 
 ---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tdxohbxdbk7ch5q7hlms7yjvqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff9ea8)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">
 

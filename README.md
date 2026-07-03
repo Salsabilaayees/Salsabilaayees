@@ -141,6 +141,24 @@ Coming Soon...
 
 ---
 
+🎧 Coding Soundtrack
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌸 Favorite Artists
+
+♡ Nadin Amizah
+♡ Hindia
+♡ Perunggu
+♡ Juicy Luicy
+♡ .Feast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🎧 My Coding Playlist
+
+[![Spotify Playlist](https://img.shields.io/badge/🎵%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68WDXVOtkAw530UqX9Vk9X)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tdxohbxdbk7ch5q7hlms7yjvqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff9ea8)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">

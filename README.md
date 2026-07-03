@@ -20,7 +20,18 @@ Technology, for me, isn't just about writing code—it's about creating solution
 - 🌱 Always learning new technologies
 - 📚 Love turning ideas into real projects
 - ✨ Detail-oriented and curious learner
+const playlistId = '5T6bBoTFLaCIOB977CV8qp';
 
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/5T6bBoTFLaCIOB977CV8qp?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
 ---
 
 # 🌱 Currently Learning

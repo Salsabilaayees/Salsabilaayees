@@ -50,7 +50,7 @@ A simple JavaScript stopwatch with a cute pink interface and responsive layout.
 
 Collecting my university projects, reports, and web development journey.
 
-<br><img src="assets/lari.gif" width="350">
+<br><img src="assets/lari.gif" width="350"><br>
 ୨୧ ─────────── ୨୧-୨୧ ─────────── ୨୧
 
 # 🎯 Goals for 2026
@@ -61,7 +61,8 @@ Collecting my university projects, reports, and web development journey.
 - 📂 Create high-quality GitHub repositories
 - 🤝 Contribute to Open Source
 - 💼 Start freelancing as a Front-End Developer
-
+- 
+<br><img src="assets/kaget.gif" width="350"><br>
 ୨୧ ─────────── ୨୧-୨୧ ─────────── ୨୧
 
 # ☕ Fun Facts
@@ -121,6 +122,8 @@ Coming Soon...
 - Coffee : YES
 - Bug : FIXING
 - Learning : ALWAYS
+
+<br><img src="assets/kue.gif" width="350"><br>
 
 # 💻 Tech Stack
 

@@ -21,7 +21,7 @@ Technology, for me, isn't just about writing code—it's about creating solution
 - 📚 Love turning ideas into real projects
 - ✨ Detail-oriented and curious learner
 
----
+୨୧ ─────────── ୨୧
 
 # 🌱 Currently Learning
 
@@ -31,7 +31,7 @@ Technology, for me, isn't just about writing code—it's about creating solution
 - 🎨 UI/UX Design
 - ⚛️ React (Next Learning Goal)
 
----
+୨୧ ─────────── ୨୧
 
 # 🚀 Current Projects
 
@@ -47,7 +47,7 @@ A simple JavaScript stopwatch with a cute pink interface and responsive layout.
 
 Collecting my university projects, reports, and web development journey.
 
----
+୨୧ ─────────── ୨୧
 
 # 🎯 Goals for 2026
 
@@ -58,7 +58,7 @@ Collecting my university projects, reports, and web development journey.
 - 🤝 Contribute to Open Source
 - 💼 Start freelancing as a Front-End Developer
 
----
+୨୧ ─────────── ୨୧
 
 # ☕ Fun Facts
 
@@ -71,7 +71,7 @@ Collecting my university projects, reports, and web development journey.
 - ☁️ My GitHub is my digital diary of growth.
 - 🌷 I believe consistency is more important than perfection.
 
----
+୨୧ ─────────── ୨୧
 
 # 🤝 Open to
 
@@ -83,7 +83,7 @@ I'm always happy to...
 - 🚀 Join Front-End development opportunities
 - ☕ Connect with people who love technology and design
 
----
+୨୧ ─────────── ୨୧
 
 # 🌐 Connect with Me
 
@@ -111,13 +111,13 @@ Coming Soon...
 
 Coming Soon...
 
----
+୨୧ ─────────── ୨୧
 
 # 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+୨୧ ─────────── ୨୧
 
 # 📊 GitHub Stats
 
@@ -127,19 +127,19 @@ Coming Soon...
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Salsabilaayees&theme=rose&hide_border=true&layout=compact)
 
----
+୨୧ ─────────── ୨୧
 
 # 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Salsabilaayees&theme=rose&no-frame=true&margin-w=15)
 
----
+୨୧ ─────────── ୨୧
 
 # 💭 Quote
 
 > *"Every project begins with curiosity and grows through consistency."* 🌸
 
----
+୨୧ ─────────── ୨୧
 
 🎧 Coding Soundtrack
 
